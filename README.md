@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on article, personal eesay for grad school
+###- 🔭 I’m currently working on article, personal eesay for grad school
 - 🌱 I’m currently learning UX/UI, Java Script, WordPress
 - 👯 I’m looking to collaborate on everything that I can learn from it
 - 📫 How to reach me: My Email: fmaryam81@gmail.com
