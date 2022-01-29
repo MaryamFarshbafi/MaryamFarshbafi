@@ -4,13 +4,6 @@
 
 ### Hi everyone, Welcome to my world 👋
 
-
-
-
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=MaryamFarshbafi&show_icons=true&theme=tokyonight" 
-/>
-
 <!--
 **MaryamFarshbafi/MaryamFarshbafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,3 +17,13 @@ Twitter : https://twitter.com/maryam_farsh
 Linkedln: https://www.linkedin.com/in/maryam-farshbafi/
 - ⚡ Fun fact: I think everything is easy until I try it. 
 -->
+
+
+
+
+
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=MaryamFarshbafi&show_icons=true&theme=tokyonight" 
+/>
+
+
