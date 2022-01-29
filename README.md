@@ -12,27 +12,27 @@
 
 **Skills:**
 
-- UX/UI / PHP/ JS / HTML / CSS/SEO/Digital Marketing
+- *UX/UI / PHP/ JS / HTML / CSS/ SEO/ Digital Marketing*
 
 
  🌱  **learning:** 
  
- - UX/UI/ WordPress 
+ - *UX/UI/ WordPress* 
   
   
  💬 **Ask me:**
 
-- SEO/DIgital Marketing 
+- *SEO/DIgital Marketing* 
 
- 📫 reach me:
+ 📫 **reach me:**
  
  - **Email:** fmaryam81@gmail.com 
  - **Twitter:** https://twitter.com/maryam_farsh
 - **Linkedln:** https://www.linkedin.com/in/maryam-farshbafi/
  
-⚡ Fun fact: 
+⚡ **Fun fact:**
 
-- I think everything is easy until I try it  
+- *I think everything is easy until I try it*  
 
 
 <h3 align="left">Connect with me:</h3>
