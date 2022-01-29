@@ -27,8 +27,7 @@
  📫 **reach me:**
  
  - **Email:** fmaryam81@gmail.com 
- - **Twitter:** https://twitter.com/maryam_farsh
-- **Linkedln:** https://www.linkedin.com/in/maryam-farshbafi/
+
  
 ⚡ **Fun fact:**
 
