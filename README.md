@@ -30,7 +30,7 @@
  - **Email:** fmaryam81@gmail.com 
 
  
- ⚡### <h2> **Fun fact:** </h2>
+###  <h2> ⚡  **Fun fact:** </h2>
 
 - *I think everything is easy until I try it*  
 
