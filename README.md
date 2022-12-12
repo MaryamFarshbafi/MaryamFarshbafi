@@ -13,12 +13,12 @@
  
 ### <h2> **Skills:** </h2>
 
-- *UX/UI / PHP/ JS / HTML / CSS/ SEO/ Digital Marketing*
+- *UX/UI /Access/ JS / HTML / CSS/ SEO/ Digital Marketing*
 
 
 ### <h2> 🌱 **learning:** </h2>
  
- - *UX/UI/ WordPress/ Python/ NLP/ GPT2*  
+ - * WordPress/ Python/ NLP/ GPT2/Pytorch*  
   
   
 ### <h2> 💬 **Ask me:** </h2>
