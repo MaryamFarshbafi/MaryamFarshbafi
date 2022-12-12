@@ -18,7 +18,7 @@
 
 ### <h2> 🌱 **learning:** </h2>
  
- - * WordPress/ Python/ NLP/ GPT2/Pytorch*  
+ - * WordPress/ Python/ NLP/ GPT2/Pytorch/ML/AI*  
   
   
 ### <h2> 💬 **Ask me:** </h2>
