@@ -18,7 +18,7 @@
 
 ### <h2> 🌱 **learning:** </h2>
  
- - *UX/UI/ WordPress* 
+ - *UX/UI/ WordPress/ Python/ NLP/ GPT2*  
   
   
 ### <h2> 💬 **Ask me:** </h2>
