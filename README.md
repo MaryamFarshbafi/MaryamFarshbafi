@@ -13,17 +13,17 @@
  
 ### <h2> **Skills:** </h2>
 
-- *UX/UI /Access/ JS / HTML / CSS/ SEO/ Digital Marketing*
+- *Java/SQL/ DataBase/Python /Access/ JS / HTML / CSS/ SEO/ Digital Marketing*
 
 
 ### <h2> 🌱 **learning:** </h2>
  
- - * WordPress/ Python/ NLP/ GPT2/Pytorch/ML/AI*  
+ - *  NLP/ GPT2/Pytorch/ML/AI*  
   
   
 ### <h2> 💬 **Ask me:** </h2>
 
-- *SEO/DIgital Marketing* 
+- *SEO/Digital Marketing/ Data Analytics / SQL services* 
 
 ### <h2> 📫 **reach me:** </h2>
  
